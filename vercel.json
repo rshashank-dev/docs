@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/poets",      "destination": "/index.html" },
+    { "source": "/writers",    "destination": "/index.html" },
+    { "source": "/literature", "destination": "/index.html" },
+    { "source": "/devotional", "destination": "/index.html" },
+    { "source": "/rj",         "destination": "/index.html" },
+    { "source": "/(.*)",       "destination": "/index.html" }
+  ]
+}
