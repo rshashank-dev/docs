@@ -5,6 +5,8 @@
     { "source": "/literature", "destination": "/index.html" },
     { "source": "/rj",         "destination": "/index.html" },
     { "source": "/rj2",        "destination": "/index.html" },
+    { "source": "/singers",    "destination": "/index.html" },
+    { "source": "/kpop",       "destination": "/index.html" },
     { "source": "/(.*)",       "destination": "/index.html" }
   ]
 }
